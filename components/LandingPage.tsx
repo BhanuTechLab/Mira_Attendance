@@ -54,7 +54,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onLoginClick }) => {
             <div className="absolute inset-0 bg-[url('https://www.transparenttextures.com/patterns/clean-gray-paper.png')] opacity-5"></div>
 
             {/* Header section with logo and login button. */}
-            <header className="relative z-100 p-4 sm:p-6 flex justify-between items-center">
+            <header className="relative z-10 p-10 sm:p-10 flex justify-between items-center">
                 <div className="flex items-center gap-3">
                     <Icons.logoIcon className="h-10 w-10"/>
                     <span className="text-xl font-bold tracking-tight">Mira Attendance</span>
