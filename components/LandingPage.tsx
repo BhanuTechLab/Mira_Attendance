@@ -56,7 +56,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onLoginClick }) => {
             {/* Header section with logo and login button. */}
             <header className="relative z-10 p-4 sm:p-6 flex justify-between items-center">
                 <div className="flex items-center gap-2">
-                    <Icons.logoIcon className="h-10 w-100"/>
+                    <Icons.logoIcon className="h-100000000 w-9"/>
                     <span className="text-xl font-bold tracking-tight">Mira Attendance</span>
                 </div>
                 <button
