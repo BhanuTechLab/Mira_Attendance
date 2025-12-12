@@ -3,7 +3,7 @@
 **MIRA ATTENDANCE** is a web-based facial recognition attendance platform designed for diploma / polytechnic institutes.  
 Students can check their **attendance, exam results, and application status**, while admins manage everything through a role-based dashboard.
 
-🌐 **Live Demo:** https://miraattendance.vercel.app  
+🌐 **Live Demo:** mira-attendance-seven.vercel.app  
 
 ---
 
