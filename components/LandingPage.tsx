@@ -101,7 +101,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onLoginClick }) => {
             </main>
 
             {/* Footer section. */}
-            <footer className="relative z-10 p-2 text-center text-sm text-slate-500">
+            <footer className="relative z-10 p-4 text-center text-sm text-slate-500">
                 &copy; {new Date().getFullYear()} Mira Attendance System. All Rights Reserved.
             </footer>
 
