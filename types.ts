@@ -106,7 +106,6 @@ export type Page =
   | 'AttendanceLog' 
   | 'ManageUsers' 
   | 'Applications'
-  | 'TodoList'
   | 'SBTETResults' 
   | 'Syllabus' 
   | 'Timetables' 
