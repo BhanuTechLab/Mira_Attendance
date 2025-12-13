@@ -109,7 +109,7 @@ const LoginPage: React.FC = () => {
                     <>
                         <div className="text-center mb-8">
                             <div className="flex flex-col items-center gap-3">
-                                <Icons.logoIcon className="w-20 h-20 text-primary-500 animate-logo-breath" />
+                                <Icons.logoIcon className="w-16 h-16 text-primary-500 animate-logo-breath" />
                                 <h1 className="text-3xl font-bold text-white tracking-tight">Mira Attendance</h1>
                             </div>
                         </div>
